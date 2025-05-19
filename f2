@@ -1,0 +1,8 @@
+~/Desktop/work (main)
+$ git commit -m "added text"
+[main 277ff91] added text
+ 1 file changed, 1 insertion(+)
+
+Admin@STUDENT12 MINGW64 ~/Desktop/work (main)
+$ git status
+more text
